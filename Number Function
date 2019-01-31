@@ -1,0 +1,20 @@
+echo pow (2,4);
+# output will be 16 i.e; 2 to the power of 4 = 16;
+
+echo sqrt(144);
+# Squareroot of a number;
+
+echo max(2,10);
+# which of the two number is greater;
+
+echo min(2,10);
+# which of the two number is smaller;
+
+echo round(3.77)
+# will round up the number;
+
+echo ceil(3.3)
+#will round up the numer to highter to the higher number that is 4;
+
+echo floor(3.9)
+#will round up th evalue to lowest value to it i.e; 3;
